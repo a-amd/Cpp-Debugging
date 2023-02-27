@@ -1,0 +1,7 @@
+compile with:
+  
+  g++ -g memory.cpp -o memory
+
+run gbd with:
+  
+  gbd memory

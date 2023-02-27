@@ -1,0 +1,3 @@
+compile with:
+
+  g++ -g logic_error.cpp -o logic_error
